@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-This Prework Study Guide can be used by reviewing each of the 4 topics on the webpage. The topics included are Html, CSS, Git, JavaScript. By opening DevTools console, we can view the JavaScript running. The Javascript lists the topics that we have learned throughout the modules and chooses one topic for us to hone in on.
+This Prework Study Guide can be used by reviewing each of the 4 topics on the webpage. The topics included are Html, CSS, Git, JavaScript. To use DevTools console, press Command+Shit+I (Windows). By using this, we can view the JavaScript running. The Javascript lists the topics that we have learned throughout the modules and chooses one topic for us to hone in on.
 
 ## Credits
 
